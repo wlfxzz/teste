@@ -1,0 +1,3 @@
+while true do
+loadstring(game:HttpGet"https://raw.githubusercontent.com/naypramx/Crack/Script/MaruCracked")()
+end
